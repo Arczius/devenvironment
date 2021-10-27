@@ -1,0 +1,1 @@
+after your installation of windows run the preinstall.bat, this will take you to the site where you download the winget tool
